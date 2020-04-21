@@ -8,5 +8,4 @@ int main()
   scanf("%d",&D);
   printf("DIFERENCA = %d\n",(A * B - C * D));
   return 0 ;
-
 }
