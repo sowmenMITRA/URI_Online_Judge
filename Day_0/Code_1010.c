@@ -11,5 +11,4 @@ int main()
 
     printf("VALOR A PAGAR: R$ %.2f\n",total);
     return 0 ;
-    
 }
