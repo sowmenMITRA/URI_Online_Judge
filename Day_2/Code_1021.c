@@ -17,7 +17,7 @@ int main()
     e=total/500;
     total=total%500;
     f=total/200;
-    total=total%200;
+    total=total%200; 
     g=total/100;
     total=total%100;
     h=total/50;
